@@ -1,11 +1,14 @@
 # gcal-manual
 A manual for 'gcal', the gnu calendar program
+NOTE: This is a work in progress. I currently understand about 10% from what is happening with the gcal interface !!!!
+
 
 gcal can display a surprising number of calendar variations, including such as european, chinese and muslim. You can additionally display holidays in your region, or other special events, such as sun rise or moon phase.
 
 The standard GNU manual for gcal might be hard to understand fully, therefore I have written this summary to help you get up to speed with the abundance of options.
 
 gcal will take options (preceded by the ususal "-" or "--") on the commandline, but also "commands". The commands constiture a sort of database-query on all possible calendars and special days. You may find it usefull, but I could not imagine applications for it. This "query language" is cerntainly non-standard and quiet complex as a result. 
+
 
 # Standard Calendar display
 "gcal" will display a fairly standard calendar layout, with weekdays per column
